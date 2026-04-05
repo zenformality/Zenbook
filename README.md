@@ -22,6 +22,8 @@ This app still under development and gonna get updates consistently.
 Project is still being worked on.
 New updates, fixes and improvements will be pushed regularly.
 
+This project is being developed in CodeSanbox.
+
 ## Issues and Ideas
 
 Issues are open for:
